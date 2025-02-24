@@ -1,2 +1,2 @@
-# Titanic_Repository
-This repository is for gathering the Titanic R project 
+# Final Assignment Repository - Shira Zadok
+This repository is for gathering the Final Assignment of R Beginners Course.  
